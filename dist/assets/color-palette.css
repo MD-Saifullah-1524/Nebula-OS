@@ -1,0 +1,20 @@
+:root {
+  --color-1: #fbbed1;
+  --color-2: #ff9cc0;
+  --color-3: #ff4f98;
+  --color-4: #db0069;
+  --color-5: #950041;
+  --color-6: #620026;
+  --color-7: #41111f;
+  --frosted-color-1: rgba(251,190,209,0.5);
+  --frosted-color-2: rgba(255,156,192,0.5);
+  --frosted-color-3: rgba(255,79,152,0.5);
+  --frosted-color-4: rgba(219,0,105,0.5);
+  --frosted-color-5: rgba(149,0,65,0.5);
+  --frosted-color-6: rgba(98,0,38,0.5);
+  --frosted-color-7: rgba(65,17,31,0.5);
+}
+:root{
+    --white:rgb(249,249,249);
+    --frosted-white: rgba(249,249,249,0.5);
+}

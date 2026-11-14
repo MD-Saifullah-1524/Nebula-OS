@@ -1,0 +1,11 @@
+{
+    "$schema": "https://www.schemastore.org/chrome-manifest.json",
+    "name":"Nebula OS",
+    "description":"A Desktop Environment for Browsers",
+    "version":"1.0.0",
+    "manifest_version":3,
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "host_permissions": ["https://bing.biturl.top/*","https://m.youtube.com"]
+}
